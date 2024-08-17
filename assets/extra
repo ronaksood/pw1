@@ -1,0 +1,11 @@
+color ffc233
+
+background color ff505f
+
+heading color ffc233
+
+font <style>
+  @import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@700&display=swap');
+</style>
+
+font font-family: 'Red Rose', cursive;
